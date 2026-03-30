@@ -1,7 +1,6 @@
 # Hi there, I'm Houssem Eddine Graja! 👋 
 
 ### 🚀 2nd Year Software Engineering Student @ INSAT
-*"I write code that works on my machine. Usually."*
 
 ---
 
