@@ -9,7 +9,7 @@ I’m a Software Engineering student currently navigating the beautiful chaos of
 
 * **The JS Redemption:** I used to think JavaScript was my arch-nemesis. I genuinely thought it was "too hard." Then I built a **Full Web Calculator**, conquered the DOM, and now we’re on speaking terms.
 * **The Problem Solver:** My favorite build so far is **Sokna**—a web app that helps students find apartments using real-time maps. Because finding a place to live shouldn't be harder than passing an OS exam.
-* **The Mission:** Currently evolving from "writing code" to "architecting solutions," with a healthy dose of caffeine and curiosity.
+* **The Mission:** Currently evolving from "writing code" to "architecting solutions," with a healthy dose of curiosity.
 
 ---
 
