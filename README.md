@@ -46,7 +46,13 @@ I’m a Software Engineering student currently navigating the beautiful chaos of
 * **🧮 Qt Calculator:** Another calculator interface using Qt Designer, with functionalities coded in Python.
 
 ---
+## 📊 GitHub Stats
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=houssemeddinegraja&theme=microsoft-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+
+</div>
 
 ## 🤝 Connect with Me
 * 📧 (houssemgraja70@gmail.com)
