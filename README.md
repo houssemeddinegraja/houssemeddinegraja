@@ -50,8 +50,7 @@ I’m a Software Engineering student currently navigating the beautiful chaos of
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/houssemeddinegraja=DenverCoder1)](https://git.io/streak-stats)
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=houssemeddinegraja&theme=microsoft-dark&hide_border=true&border_radius=10)](https://git.io/streak-stats)</div>
 
 ## 🤝 Connect with Me
 * 📧 (houssemgraja70@gmail.com)
