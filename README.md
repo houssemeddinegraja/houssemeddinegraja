@@ -1,6 +1,8 @@
 # Hi there, I'm Houssem Eddine Graja! 👋 
 
 ### 🚀 2nd Year Software Engineering Student @ INSAT
+---
+![](https://api.visitorbadge.io/api/VisitorHit?user=houssemeddinegraja&repo=houssemeddinegraja&countColor=%237B1E7A&style=plastic&labelStyle=upper&label=visits)
 
 ---
 
