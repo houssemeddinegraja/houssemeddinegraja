@@ -2,8 +2,7 @@
 
 ### 🚀 2nd Year Software Engineering Student @ INSAT
 ---
-![](https://api.visitorbadge.io/api/VisitorHit?user=houssemeddinegraja&repo=houssemeddinegraja&countColor=%237B1E7A&style=plastic&labelStyle=upper&label=visits)
-
+![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fhoussemeddinegraja&label=VISITORS&labelColor=%2337d67a&countColor=%232ccce4&style=plastic&labelStyle=lower)
 ---
 
 ## 👨‍💻 About Me
