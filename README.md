@@ -10,6 +10,16 @@
 
 ---
 
+<div align="center">
+
+
+![Visitor Count](https://komarev.com/ghpvc/?username=houssemeddinegraja&color=6E56CF&style=flat-square&label=Profile+Views)
+
+</div>
+
+---
+
+
 ## 👨‍💻 About Me
 
 I'm a Software Engineering student navigating the beautiful chaos of algorithms and late-night debugging sessions at INSAT — and genuinely loving it.
@@ -74,7 +84,6 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 | [🎓 Tutor-Manager-Front](https://github.com/houssemeddinegraja/Tutor-Manager-Front) | Frontend interface for a tutor management system | HTML, CSS |
 
 ---
-
 ## 🚀 Currently Leveling Up
 
 - 🤖 **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
@@ -91,16 +100,17 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=houssemeddinegraja&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssemeddinegraja&theme=tokyonight" width="100%"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja&theme=tokyonight" width="49%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
 
-[![Houssem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=houssemeddinegraja&theme=tokyo-night&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Houssem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=houssemeddinegraja&theme=tokyo-night&hide_border=true&radius=10)
 
 </div>
 
 ---
+
+
 
 ## 🤝 Connect with Me
 
@@ -111,11 +121,4 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 </div>
 
----
 
-<div align="center">
-
-
-![Visitor Count](https://komarev.com/ghpvc/?username=houssemeddinegraja&color=6E56CF&style=flat-square&label=Profile+Views)
-
-</div>
