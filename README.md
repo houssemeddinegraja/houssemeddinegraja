@@ -45,8 +45,6 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=python&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Gradio](https://img.shields.io/badge/Gradio-FF7C00?style=for-the-badge&logo=python&logoColor=white)
@@ -91,8 +89,14 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=houssemeddinegraja&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=houssemeddinegraja&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssemeddinegraja&theme=tokyonight" width="100%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja&theme=tokyonight" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja&theme=tokyonight" width="49%"/>
+
+[![Houssem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=houssemeddinegraja&theme=tokyo-night&hide_border=true&radius=10)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -110,6 +114,7 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 ---
 
 <div align="center">
+
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=houssemeddinegraja&color=6E56CF&style=flat-square&label=Profile+Views)
 
