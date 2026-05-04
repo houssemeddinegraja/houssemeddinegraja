@@ -79,7 +79,12 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![DataGrip](https://img.shields.io/badge/DataGrip-9775F8?style=for-the-badge&logo=datagrip&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-21B5C8?style=for-the-badge&logo=clion&logoColor=white)
- </div>
+  ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Thonny](https://img.shields.io/badge/Thonny-FF8C00?style=for-the-badge&logo=python&logoColor=white)
+  ![CodeBlocks](https://img.shields.io/badge/Code::Blocks-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+
+</div>
 
 ---
 
