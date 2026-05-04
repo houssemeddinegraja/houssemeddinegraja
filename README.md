@@ -75,8 +75,11 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  
-</div>
+  ![PyCharm](https://img.shields.io/badge/PyCharm-21D789?style=for-the-badge&logo=pycharm&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![DataGrip](https://img.shields.io/badge/DataGrip-9775F8?style=for-the-badge&logo=datagrip&logoColor=white)
+  ![CLion](https://img.shields.io/badge/CLion-21B5C8?style=for-the-badge&logo=clion&logoColor=white)
+ </div>
 
 ---
 
