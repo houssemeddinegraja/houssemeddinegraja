@@ -20,21 +20,21 @@
 ---
 
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a Software Engineering student navigating the beautiful chaos of algorithms and late-night debugging sessions at INSAT — and genuinely loving it.
 
-- 🧠 **The AI Journey:** From theoretical LLM notebooks to real Hugging Face pipelines and Gradio web interfaces — I'm actively bridging the gap between ML theory and deployed applications.
-- 🌐 **The Web Developer:** Built a real-world responsive website for **GEST Pro**, a Tunisian sanitary & thermal equipment company. From zero to production, HTML/CSS/JS.
-- 🤖 **The Data Scientist in Training:** Multiple ML models under my belt — Logistic Regression, KNN, XGBoost — applied to real datasets (Titanic, Breast Cancer, California Housing, Telecom Churn...).
-- 🏗 **The Problem Solver:** My favorite challenge so far is **Sokna** — a web app that helps students find apartments using real-time maps. Because apartment hunting shouldn't be harder than an OS exam.
-- 📖 **The Mission:** Evolving from "writing code" to "architecting solutions", one commit at a time.
+- **The AI Journey:** From theoretical LLM notebooks to real Hugging Face pipelines and Gradio web interfaces — I'm actively bridging the gap between ML theory and deployed applications.
+- **The Web Developer:** Built a real-world responsive website for **GEST Pro**, a Tunisian sanitary & thermal equipment company. From zero to production, HTML/CSS/JS.
+- **The Data Scientist in Training:** Multiple ML models under my belt — Logistic Regression, KNN, XGBoost — applied to real datasets (Titanic, Breast Cancer, California Housing, Telecom Churn...).
+- **The Problem Solver:** My favorite challenge so far is **Sokna** — a web app that helps students find apartments using real-time maps. Because apartment hunting shouldn't be harder than an OS exam.
+- **The Mission:** Evolving from "writing code" to "architecting solutions", one commit at a time.
 
 ---
 
-## 🛠 My Technical Toolbox
+## My Technical Toolbox
 
-### 💻 Languages
+### Languages
 <div align="center">
   
   ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +47,7 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
   
 </div>
 
-### 🌐 Frontend & UI
+### Frontend & UI
 
 <div align="center">
   
@@ -57,7 +57,7 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 ![Qt](https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 </div>
 
-### 🤖 AI / ML / Data Science
+### AI / ML / Data Science
 <div align="center">
   
   ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -69,7 +69,7 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
   
 </div>
 
-### ⚙️ Tools & Platforms
+### Tools & Platforms
 <div align="center">
   
   ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -88,33 +88,31 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 ---
 
-## 🏆 Featured Projects
+## Featured Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [🏢 GEST-Pro](https://github.com/houssemeddinegraja/GEST-Pro) | Real-world responsive website for a Tunisian sanitary & thermal equipment company | HTML5, CSS3, JS |
-| [🚢 Titanic-Death-Prediction](https://github.com/houssemeddinegraja/Titanic-Death-Prediction) | End-to-end ML pipeline: EDA, feature engineering, Logistic Regression & KNN, ROC curves | Python, scikit-learn |
-| [🤖 ML-Exercises](https://github.com/houssemeddinegraja/ML-Exercises) | Growing ML portfolio: cancer detection, housing prices, churn prediction, agriculture | Python, scikit-learn, XGBoost |
-| [🌐 Translator](https://github.com/houssemeddinegraja/Translator) | AI-powered translation web interface built with Gradio | Python, Gradio |
-| [🧮 Web-Calculator](https://github.com/houssemeddinegraja/Web-Calculator) | Full JS calculator with GCD & LCM — the project that made me respect JavaScript | HTML, CSS, JS |
-| [🛒 Stock-Manager](https://github.com/houssemeddinegraja/Stock-Manager) | CLI inventory management system with full CRUD, OOP, and file persistence | C++, CMake |
-| [🤗 Hugging Face Starter](https://github.com/houssemeddinegraja/Working-with-Hugging-Face-Starter-Repo) | Progressive notebooks for working with Hugging Face models in Python | Python, Jupyter |
-| [🧠 LLM Theory](https://github.com/houssemeddinegraja/Large-Language-Models-Theory) | Summarized theoretical notes on Large Language Models, in 3 structured parts | Jupyter Notebook |
-| [📊 DataCamp Python Projects](https://github.com/houssemeddinegraja/DataCamp-Python-Projects-Personal-Solutions) | Personal solutions to DataCamp's data manipulation projects using Pandas | Python, Jupyter |
-| [🎓 Tutor-Manager-Front](https://github.com/houssemeddinegraja/Tutor-Manager-Front) | Frontend interface for a tutor management system | HTML, CSS |
+| [GEST-Pro](https://github.com/houssemeddinegraja/GEST-Pro) | Real-world responsive website for a Tunisian sanitary & thermal equipment company | HTML5, CSS3, JS |
+| [Titanic-Death-Prediction](https://github.com/houssemeddinegraja/Titanic-Death-Prediction) | End-to-end ML pipeline: EDA, feature engineering, Logistic Regression & KNN, ROC curves | Python, scikit-learn |
+| [Translator](https://github.com/houssemeddinegraja/Translator) | AI-powered translation web interface built with Gradio | Python, Gradio |
+| [Web-Calculator](https://github.com/houssemeddinegraja/Web-Calculator) | Full JS calculator with GCD & LCM — the project that made me respect JavaScript | HTML, CSS, JS |
+| [Stock-Manager](https://github.com/houssemeddinegraja/Stock-Manager) | CLI inventory management system with full CRUD, OOP, and file persistence | C++, CMake |
+| [Hugging Face Starter](https://github.com/houssemeddinegraja/Working-with-Hugging-Face-Starter-Repo) | Progressive notebooks for working with Hugging Face models in Python | Python, Jupyter |
+| [DataCamp Python Projects](https://github.com/houssemeddinegraja/DataCamp-Python-Projects-Personal-Solutions) | Personal solutions to DataCamp's data manipulation projects using Pandas | Python, Jupyter |
+| [Tutor-Manager-Front](https://github.com/houssemeddinegraja/Tutor-Manager-Front) | Frontend interface for a tutor management system | HTML, CSS |
 
 ---
-## 🚀 Currently Leveling Up
+## Currently Leveling Up
 
-- 🤖 **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
-- 🤗 **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces with Gradio
-- 🧠 **LLM Theory:** Deep-diving into the architecture behind Large Language Models
-- 🏗 **Back-end Mastery:** Polishing PHP, database design, and OOP principles
-- 📊 **Data Science:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
+- **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
+- **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces with Gradio
+- **LLM Theory:** Deep-diving into the architecture behind Large Language Models
+- **Back-end Mastery:** Polishing PHP, database design, and OOP principles
+- **Data Science:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -132,7 +130,7 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 
 
-## 🤝 Connect with Me
+## Connect with Me
 
 <div align="center">
 
