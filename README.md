@@ -27,7 +27,6 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 - **The AI Journey:** From theoretical LLM notebooks to real Hugging Face pipelines and Gradio web interfaces — I'm actively bridging the gap between ML theory and deployed applications.
 - **The Web Developer:** Built a real-world responsive website for **GEST Pro**, a Tunisian sanitary & thermal equipment company. From zero to production, HTML/CSS/JS.
 - **The Data Scientist in Training:** Multiple ML models under my belt — Logistic Regression, KNN, XGBoost — applied to real datasets (Titanic, Breast Cancer, California Housing, Telecom Churn...).
-- **The Problem Solver:** My favorite challenge so far is **Sokna** — a web app that helps students find apartments using real-time maps. Because apartment hunting shouldn't be harder than an OS exam.
 - **The Mission:** Evolving from "writing code" to "architecting solutions", one commit at a time.
 
 ---
@@ -88,20 +87,6 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 
 ---
 
-## Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| [GEST-Pro](https://github.com/houssemeddinegraja/GEST-Pro) | Real-world responsive website for a Tunisian sanitary & thermal equipment company | HTML5, CSS3, JS |
-| [Titanic-Death-Prediction](https://github.com/houssemeddinegraja/Titanic-Death-Prediction) | End-to-end ML pipeline: EDA, feature engineering, Logistic Regression & KNN, ROC curves | Python, scikit-learn |
-| [Translator](https://github.com/houssemeddinegraja/Translator) | AI-powered translation web interface built with Gradio | Python, Gradio |
-| [Web-Calculator](https://github.com/houssemeddinegraja/Web-Calculator) | Full JS calculator with GCD & LCM — the project that made me respect JavaScript | HTML, CSS, JS |
-| [Stock-Manager](https://github.com/houssemeddinegraja/Stock-Manager) | CLI inventory management system with full CRUD, OOP, and file persistence | C++, CMake |
-| [Hugging Face Starter](https://github.com/houssemeddinegraja/Working-with-Hugging-Face-Starter-Repo) | Progressive notebooks for working with Hugging Face models in Python | Python, Jupyter |
-| [DataCamp Python Projects](https://github.com/houssemeddinegraja/DataCamp-Python-Projects-Personal-Solutions) | Personal solutions to DataCamp's data manipulation projects using Pandas | Python, Jupyter |
-| [Tutor-Manager-Front](https://github.com/houssemeddinegraja/Tutor-Manager-Front) | Frontend interface for a tutor management system | HTML, CSS |
-
----
 ## Currently Leveling Up
 
 - **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
