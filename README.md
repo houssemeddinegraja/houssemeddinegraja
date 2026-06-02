@@ -54,6 +54,16 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 ![Qt](https://img.shields.io/badge/Qt_Designer-41CD52?style=for-the-badge&logo=qt&logoColor=white)
 </div>
 
+### Backend & APIs
+<div align="center">
+  
+  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+  ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
+
+</div>
+
 ### AI / ML / Data Science
 <div align="center">
   
@@ -76,6 +86,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-FE315D?style=for-the-badge&logo=intellij-idea&logoColor=white)
   ![DataGrip](https://img.shields.io/badge/DataGrip-9775F8?style=for-the-badge&logo=datagrip&logoColor=white)
   ![CLion](https://img.shields.io/badge/CLion-21B5C8?style=for-the-badge&logo=clion&logoColor=white)
+  ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
   ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
   ![Thonny](https://img.shields.io/badge/Thonny-FF8C00?style=for-the-badge&logo=python&logoColor=white)
   ![CodeBlocks](https://img.shields.io/badge/Code::Blocks-000080?style=for-the-badge&logo=c%2B%2B&logoColor=white)
