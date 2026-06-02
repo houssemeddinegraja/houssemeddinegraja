@@ -22,12 +22,10 @@
 
 ## About Me
 
-I'm a Software Engineering student navigating the beautiful chaos of algorithms and late-night debugging sessions at INSAT — and genuinely loving it.
-
-- **The AI Journey:** From theoretical LLM notebooks to real Hugging Face pipelines and Gradio web interfaces — I'm actively bridging the gap between ML theory and deployed applications.
-- **The Web Developer:** Built a real-world responsive website for **GEST Pro**, a Tunisian sanitary & thermal equipment company. From zero to production, HTML/CSS/JS.
-- **The Data Scientist in Training:** Multiple ML models under my belt — Logistic Regression, KNN, XGBoost — applied to real datasets (Titanic, Breast Cancer, California Housing, Telecom Churn...).
-- **The Mission:** Evolving from "writing code" to "architecting solutions", one commit at a time.
+I'm a Software Engineering student at the National Institute of Applied Sciences and Technology (INSAT) in Tunisia.<br>
+I'm passionate about full-stack Web development, Frontend (HTML / CSS / JS) and especially Backend which recently started to become one of the things I love the most, and am ready to dive into using Java or Python's FastAPI.
+I'm also looking forward on upgrading my Data Analysis/Feature Engineering skills to strengthen my Machine Learning models and get the best possible accuracy.
+Looking even more forward to developing AI-powered Web apps in Python through HuggingFace.
 
 ---
 
@@ -90,10 +88,9 @@ I'm a Software Engineering student navigating the beautiful chaos of algorithms 
 ## Currently Leveling Up
 
 - **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
-- **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces with Gradio
-- **LLM Theory:** Deep-diving into the architecture behind Large Language Models
-- **Back-end Mastery:** Polishing PHP, database design, and OOP principles
-- **Data Science:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
+- **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces
+- **Back-end Mastery:** Polishing PHP, Java, FastAPI, database design, and OOP principles, upgrading to full-stack development
+- **Data Analysis and Feature Engineering:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
 
 ---
 
