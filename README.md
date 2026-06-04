@@ -104,6 +104,9 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 - **Data Analysis and Feature Engineering:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
 
 ---
+## My Contribution snake
+![Snake animation](https://github.com/houssemeddinegraja/houssemeddinegraja/blob/output/github-contribution-grid-snake.svg)
+---
 
 ## GitHub Stats
 
