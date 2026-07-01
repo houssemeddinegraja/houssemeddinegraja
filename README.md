@@ -124,8 +124,6 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
 
-![Houssem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=houssemeddinegraja&theme=tokyo-night&hide_border=true&radius=10)
-
 </div>
 
 ---
