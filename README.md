@@ -118,11 +118,11 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=houssemeddinegraja&theme=tokyonight&hide_border=true&border_radius=10)](https://git.io/streak-stats)
-
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja&theme=tokyonight" width="40%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=houssemeddinegraja&show_icons=true&theme=default&count_private=true" alt="Graja's GitHub stats" height="165"/>
+  
+<br>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja" width="30%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssemeddinegraja" width="30%"/>
 
 </div>
 
