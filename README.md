@@ -58,7 +58,6 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 <div align="center">
   
   ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
   ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
   ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 
@@ -100,7 +99,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 
 - **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
 - **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces
-- **Back-end Mastery:** Polishing PHP, Java, FastAPI, database design, and OOP principles, upgrading to full-stack development
+- **Back-end Mastery:** Polishing PHP, Java, database design, and OOP principles, upgrading to full-stack development
 - **Data Analysis and Feature Engineering:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
 
 ---
