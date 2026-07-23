@@ -2,7 +2,7 @@
 
 # Hi there, I'm Houssem Eddine Graja!
 
-### 2nd Year Software Engineering Student @ INSAT
+### 3rd Year Software Engineering Student @ INSAT
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6E56CF&center=true&vCenter=true&width=500&lines=Software+Engineering+Student;ML+%26+Data+Science+Enthusiast;Web+Developer;Always+Learning)](https://git.io/typing-svg)
 
