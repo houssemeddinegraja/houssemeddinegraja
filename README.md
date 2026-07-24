@@ -135,7 +135,8 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssemgraja70@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssemeddinegraja)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssem-eddine-graja-295720417)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&cacheSeconds=1)](https://linkedin.com/in/houssem-eddine-graja-295720417)
+[![Resume](https://img.shields.io/badge/Resume-4B32C3?style=for-the-badge&logo=readdotcv&logoColor=white)](https://github.com/houssemeddinegraja/houssemeddinegraja/blob/main/HoussemEddineGraja_CV.pdf)
 </div>
 
 
