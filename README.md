@@ -58,7 +58,18 @@
 
 <br>
 
+## 🚀 Featured Projects
 
+<div align="center">
+
+| | | |
+|---|---|---|
+| **[GEST Pro](https://github.com/houssemeddinegraja/GEST-Pro)** <br> Static business website · HTML/CSS | **[Stock Manager](https://github.com/houssemeddinegraja/Stock-Manager)** <br> Inventory app for stores · C++ | **[Web Calculator](https://github.com/houssemeddinegraja/Web-Calculator)** <br> Two-number calculator · JS |
+| **[Titanic Death Prediction](https://github.com/houssemeddinegraja/Titanic-Death-Prediction)** <br> Kaggle ML notebook · Python | **[DataCamp Solutions](https://github.com/houssemeddinegraja/DataCamp-Python-Projects-Personal-Solutions)** <br> Practice notebooks · Python | **[This Profile](https://github.com/houssemeddinegraja/houssemeddinegraja)** <br> You're looking at it 👀 |
+
+</div>
+
+<br>
 
 ## 📊 GitHub Stats
 
