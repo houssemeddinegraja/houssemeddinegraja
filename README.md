@@ -118,6 +118,11 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 <div align="center">
 
 <img src="https://github-stats-extended.vercel.app/api?username=houssemeddinegraja&show_icons=true&theme=default&count_private=true" alt="Graja's GitHub stats" height="165"/>
+<img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=houssemeddinegraja&layout=compact&theme=transparent&langs_count=8"
+    height="165"
+    alt="Graja's top languages"
+  />
   
 <br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssemeddinegraja" width="30%"/>
