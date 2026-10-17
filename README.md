@@ -41,7 +41,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 ### Frontend & UI
 <div align="center">
 
-![HTML5, CSS3, JavaScript, Qt Designer](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,qt)
+![HTML5, CSS3, JavaScript, React, Qt Designer](https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,react,qt)
 
 </div>
 
