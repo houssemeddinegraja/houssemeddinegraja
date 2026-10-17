@@ -63,7 +63,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 ### Tools & Platforms
 <div align="center">
 
-![Git, GitHub, VS Code, PyCharm, IntelliJ IDEA, DataGrip, CLion, Code::Blocks, Eclipse](https://go-skill-icons.vercel.app/api/icons?i=git,github,vscode,pycharm,idea,datagrip,clion,codeblocks,eclipse)
+![GitHub, VS Code, PyCharm, IntelliJ IDEA, DataGrip, CLion, Code::Blocks, Eclipse](https://go-skill-icons.vercel.app/api/icons?i=github,vscode,pycharm,idea,datagrip,clion,codeblocks,eclipse)
 
 ![XAMPP](https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white)
 ![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -76,7 +76,6 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 ## Currently Leveling Up
 
 - **Machine Learning:** Expanding from basic classifiers to ensemble methods and model deployment
-- **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces
 - **Back-end Mastery:** Polishing PHP, Java, database design, and OOP principles, upgrading to full-stack development
 - **Data Analysis and Feature Engineering:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
 - **Frontend with React:** Building component-based UIs and learning state management
