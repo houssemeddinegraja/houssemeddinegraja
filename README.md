@@ -79,7 +79,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 - **Hugging Face & NLP:** Exploring transformer-based models and building AI-powered interfaces
 - **Back-end Mastery:** Polishing PHP, Java, database design, and OOP principles, upgrading to full-stack development
 - **Data Analysis and Feature Engineering:** Strengthening my data wrangling pipeline with Pandas, NumPy & visualization tools
-
+- **Frontend with React:** Building component-based UIs and learning state management
 ---
 
 ## My Contribution snake
