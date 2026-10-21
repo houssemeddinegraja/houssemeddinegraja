@@ -18,6 +18,9 @@
 </div>
 
 ---
+![GitHub Contributions](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=houssemeddinegraja&stats=true)
+
+---
 
 
 ## About Me
@@ -81,14 +84,7 @@ Looking even more forward to developing AI-powered Web apps in Python through Hu
 - **Frontend with React:** Building component-based UIs and learning state management
 ---
 
-## My Contribution snake
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/houssemeddinegraja/houssemeddinegraja/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/houssemeddinegraja/houssemeddinegraja/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/houssemeddinegraja/houssemeddinegraja/output/github-contribution-grid-snake.svg">
-</picture>
 
----
 
 ## GitHub Stats
 
